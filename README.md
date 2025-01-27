@@ -125,5 +125,5 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 
 ## Contacts
-- LinkedIn: [@NickWiigz](https://www.linkedin.com/in/nickwiggz?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4n%2FJvonNTqOtZorRcmFaiA%3D%3D)
+- LinkedIn: [@NickWiggz](https://www.linkedin.com/in/nickwiggz?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4n%2FJvonNTqOtZorRcmFaiA%3D%3D)
 - Email: NickWiggz1gmail.com
