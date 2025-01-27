@@ -15,8 +15,8 @@ When I'm not immersed in data, I'm passionate about personal and professional gr
 - ⚡ Fun fact: I've worked as an Avionics Technician on UH-1Y and AH-1Z helicopters while serving in the Marine Corps. 
 
 ## Table of Contents
-- [About](https://github.com/NickWiggz/NickWiggz/edit/main/README.md#about)
-- [Portfolio Projects](https://github.com/NickWiggz/NickWiggz/edit/main/README.md#portfolio-projects)
+- [About](https://github.com/NickWiggz/Data-Analytics-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/NickWiggz/Data-Analytics-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
   - SQL
   - R
@@ -31,9 +31,9 @@ When I'm not immersed in data, I'm passionate about personal and professional gr
   - @Risk
     - [Project Management Report]
 
-- [Education](https://github.com/NickWiggz/NickWiggz/edit/main/README.md#education)  
-- [Certificates](https://github.com/NickWiggz/NickWiggz/edit/main/README.md#certificates)
-- [Contact](https://github.com/NickWiggz/NickWiggz/edit/main/README.md#contacts)
+- [Education](https://github.com/NickWiggz/Data-Analytics-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/NickWiggz/Data-Analytics-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/NickWiggz/Data-Analytics-Portfolio/blob/main/README.md#contacts)
 
 ## Portfolio Projects
 
