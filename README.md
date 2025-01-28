@@ -20,7 +20,7 @@ When I'm not immersed in data, I'm passionate about personal and professional gr
   - Python
   - SQL
   - R
-    - [The Impact of Social Media on Mental Health in Teens](https://github.com/tiannaparris/Data-Analysis-Portfolio#The-Impact-of-Social-Media-on-Mental-Health-in-Teens)
+    - [The Impact of Social Media on Mental Health in Teens](https://github.com/NickWiggz/Data-Analytics-Portfolio#The-Impact-of-Social-Media-on-Mental-Health-in-Teens)
     - [The Gateway Effect of Smokeless Tobacco on High School Adolescents]
     - [Addressing Homelessness in Washington, DC]
     - [FlexDashboard|Addressing Homelessness in Washington, DC]
