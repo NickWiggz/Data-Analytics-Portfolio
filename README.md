@@ -141,20 +141,19 @@ In this section, I will list data analytics projects briefly describing the tech
 **Technology:** Tableau
 
 ## Education
-Johns Hopkins University: 
+**Johns Hopkins University:**
 Master of Science - Data Analytics and Policy
 January 2023 - December 2024
 
-Amerian InterContinental University:
+**American InterContinental University:**
 Master of Business Administration - Operations Management
 April 2016 - May 2017
 
-Amerian InterContinental University:
+**American InterContinental University:**
 Bachelor of Business Administration - Accounting
 April 2009 - May 2013
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/5572c5a08aaef19fe9d721ab6eb07dc6) (November 2022) (Coursera - Google)
 
 
