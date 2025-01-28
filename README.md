@@ -45,92 +45,100 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Document:** [`The Impact of Social Media on Mental Health in Teens`](https://rpubs.com/njwiggins/1266054)
 
-**Goal:** 
+**Goal:** To investigate the correlation between social media usage and mental health indicators among teenagers.
 
-**Description:** 
+**Description:** This project analyzed survey data from a diverse group of high school students regarding social media and mental health. Data cleaning and analysis were performed, along with data visualizations developed to provide insight into the effects of social media on mental health.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data Cleaning, Exploratory Data Analysis, Statistical Analysis, Data Visualization, Hypothesis Testing, Correlation Analysis
 
-**Technology:** 
+**Technology:** R, ggplot2
 
-**Results:** 
+**Results:** This analysis found a statistically significant correlation between the time spent on social media, and the negative effects on mental health in teens.
 
 ### The Gateway Effect of Smokeless Tobacco on High School Adolescents
 **Code:** [`The Gateway Effect of Smokeless Tobacco on High School Adolescents`](https://github.com/NickWiggz/Projects/blob/main/Smokeless%20Tobacco%20and%20High%20School%20Adolescents.Rmd)
 
 **Document:** [`The Gateway Effect of Smokeless Tobacco on High School Adolescents`](https://github.com/NickWiggz/Projects/blob/main/Smokeless%20Tobacco%20and%20High%20School%20Adolescents.pdf)
 
-**Goal:** 
+**Goal:** To examine whether the use of smokeless tobacco products serves as a predictor for future cigarette smoking among high school students.
 
-**Description:** 
+**Description:** This project involved analyzing data collected from various high schools, focusing on students' tobacco use habits. The study employed statistical methods to determine if an initial use of smokeless tobacco increased the likelihood of transitioning to cigarette smoking.
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills:** Data Cleaning, Statistical Modeling, Logistic Regression, Hypothesis Testing, Data Visualization
 
-**Technology:** 
+**Technology:** R
 
-**Results:** 
+**Results:** The analysis revealed a statistically significant relationship, suggesting that adolescents who use smokeless tobacco are more likely to smoke cigarettes in the future compared to their peers who do not use smokeless tobacco. 
 
 ### Addressing Homelessness in Washington, DC
 **Code:** [`Addressing Homelessness in Washington, DC`](https://github.com/NickWiggz/Projects/blob/main/Addressing%20DC%20Homelessness.Rmd)
 
 **Document:** [`Addressing Homelessness in Washington, DC`](https://q1tmzx-nicholas-wiggins.shinyapps.io/Addressing_DC_Homelessness/)
 
-**Goal:** 
+**Goal:** To analyze socioeconomic and environmental factors contributing to homelessness in Washington, DC, and develop an interactive tool for visualizing these factors.
 
-**Description:** 
+**Description:** This project involved collecting and analyzing data on homelessness and various socioeconomic indicators in DC. An interactive Shiny app, incorporating Mapbox for geospatial visualizations, was developed to allow users to explore the data and understand the complex factors influencing homelessness.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data Collection, Data Cleaning, Geospatial Analysis, Interactive Visualization, Web Application Development, Statistical Analysis
 
-**Technology:** 
+**Technology:** R, Shiny, Mapbox, Leaflet
 
-**Results:** 
+**Results:** The project produced a user-friendly web application that provides insights into the distribution and correlates of homelessness in Washington, DC. This aids in the formulation of targeted policy interventions. The project also identified key contributing factors using statistical modeling. 
 
 ### FlexDashboard|Addressing Homelessness in Washington, DC
 **Code:** [`Addressing Homelessness in Washington, DC (FlexDashBoard)`](https://github.com/NickWiggz/Projects/blob/main/Homeless_Final_FlexDash.rmd)
 
 **Document:** [`Addressing Homelessness in Washington, DC (FlexDashBoard)`](https://q1tmzx-nicholas-wiggins.shinyapps.io/DC_Homelessness_Final/)
 
-**Goal:** 
+**Goal:** To create a comprehensive dashboard that presents key metrics and visualizations related to homelessness in Washington, DC, in an easily digestible format.
 
-**Description:** 
+**Description:** Utilizing the Flexdashboard package in R, this project aimed to develop a static dashboard that displays various aspects of homelessness data. The dashboard includes interactive charts and tables that provide a snapshot of the homelessness situation in DC.
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills:** Dashboard Development, Data Visualization, Data Summarization
 
-**Technology:** 
+**Technology:** R, Flexdashboard, ggplot2
 
-**Results:** 
-
+**Results:** A static, yet interactive, dashboard was created, offering an accessible overview of homelessness in DC, suitable for presentations and quick data-driven discussions.
 
 ### Media Narratives, Veteran Homelessness, and Public Perception
 **Code:** [`Media Narratives, Veteran Homelessness, and Public Perception`](https://github.com/NickWiggz/Projects/blob/main/Media%20Narratives%2C%20Veteran%20Homelessness%2C%20and%20Public%20Perception.qmd)
 
 **Document:** [`Media Narratives, Veteran Homelessness, and Public Perception.pdf`](https://github.com/NickWiggz/Projects/blob/main/Media%20Narratives%2C%20Veteran%20Homelessness%2C%20and%20Public%20Perception.pdf)
 
-**Goal:** 
+**Goal:** To assess how media narratives shape public perception of veteran homelessness and to analyze the actual data on veteran homelessness to understand the issue beyond media portrayals.
 
-**Description:** 
+**Description:** This project conducted a statistical analysis to determine the correlation between different variables that contribute to veteran homelessness.
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills:** Statistical Analysis, Correlation Analysis, Data Visualization
 
-**Technology:** 
+**Technology:** R, ggplot2
 
-**Results:** 
+**Results:** This analysis provides a nuanced understanding of veteran homelessness, highlighting areas where media narratives may diverge from empirical data.
 
 ### US Police Involved Shootings (2015-2023)
 **Code:** [`US Police Involved Shootings (2015-2023)`](https://github.com/NickWiggz/Projects/blob/main/Data%20Viz%20Police%20Shootings%20Portfolio.Rmd)
 
 **Document:** [`US Police Involved Shootings (2015-2023)`]([https://github.com/NickWiggz/Projects/blob/main/Data%20Viz%20Police%20Shootings%20Portfolio.Rmd](https://q1tmzx-nicholas-wiggins.shinyapps.io/Portfolio/))
 
-**Goal:** 
+**Goal:** To analyze and visualize data on police-involved shootings in the US from 2015 to 2023, providing insights into trends, demographics, and geographical patterns.
 
-**Description:** 
+**Description:** This project utilizes a comprehensive dataset of police-involved shootings across the United States. It employs data cleaning, statistical analysis, and visualization techniques to explore various aspects of the data, including temporal trends, demographic factors, and geographic distribution. An interactive Shiny app allows for dynamic exploration of the data.
 
-**Skills:** data visualization
+**Skills:** Data Cleaning, Data Analysis, Statistical Analysis, Data Visualization, Interactive Dashboards
 
-**Technology:** 
+**Technology:** R, Shiny, ggplot2, Leaflet
 
-**Results:** 
+**Results:** The project offers a detailed examination of police-involved shootings, revealing patterns and trends that can inform public discussion and policy-making. The interactive app enhances understanding by allowing users to filter and explore the data based on different variables.
 
+### Tableau Projects
+
+**Visit Tableau Profile:** [Nicholas Wiggins Tableau Profile](https://public.tableau.com/app/profile/nicholas.wiggins5304/vizzes)
+
+**Description:** This is a collection of interactive data visualizations created using Tableau, showcasing various datasets and analytical techniques. The portfolio includes dashboards on topics such as public health, social issues, and economic trends, demonstrating proficiency in data storytelling and visual analytics.
+
+**Skills:** Data Visualization, Dashboard Design, Data Storytelling, Trend Analysis
+
+**Technology:** Tableau
 
 ## Education
 Johns Hopkins University: 
