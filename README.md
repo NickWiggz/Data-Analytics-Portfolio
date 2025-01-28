@@ -21,11 +21,11 @@ When I'm not immersed in data, I'm passionate about personal and professional gr
   - SQL
   - R
     - [The Impact of Social Media on Mental Health in Teens](https://github.com/NickWiggz/Data-Analytics-Portfolio#The-Impact-of-Social-Media-on-Mental-Health-in-Teens)
-    - [The Gateway Effect of Smokeless Tobacco on High School Adolescents]
-    - [Addressing Homelessness in Washington, DC]
-    - [FlexDashboard|Addressing Homelessness in Washington, DC]
-    - [Media Narratives, Veteran Homelessness, and Public Perception]
-    - [US Police Involved Shootings (2015-2023)]
+    - [The Gateway Effect of Smokeless Tobacco on High School Adolescents](https://github.com/NickWiggz/Data-Analytics-Portfolio#The-Gateway-Effect-of-Smokeless-Tobacco-on-High-School-Adolescents)
+    - [Addressing Homelessness in Washington, DC](https://github.com/NickWiggz/Data-Analytics-Portfolio#Addressing-Homelessness-in-Washington-DC)
+    - [FlexDashboard|Addressing Homelessness in Washington, DC](https://github.com/NickWiggz/Data-Analytics-Portfolio#FlexDashboard--Addressing-Homelessness-in-Washington-DC)
+    - [Media Narratives, Veteran Homelessness, and Public Perception](https://github.com/NickWiggz/Data-Analytics-Portfolio#Media-Narratives-Veteran-Homelessness-and-Public-Perception)
+    - [US Police Involved Shootings (2015-2023)](https://github.com/NickWiggz/Data-Analytics-Portfolio#US-Police-Involved-Shootings-2015-2023)
   - Excel / Google Sheets
   - Tableau---> [Visit Tableau Profile]([https://public.tableau.com/app/profile/nicholas.wiggins5304/vizzes])
   - Power BI
@@ -38,7 +38,7 @@ When I'm not immersed in data, I'm passionate about personal and professional gr
 
 ## Portfolio Projects
 
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### The Impact of Social Media on Mental Health in Teens
 **Code:** [`The Impact of Social Media on Mental Health in Teens`](https://github.com/NickWiggz/Projects/blob/main/Social%20Media%20and%20Teens.Rmd)
