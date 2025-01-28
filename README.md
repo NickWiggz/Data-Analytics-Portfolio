@@ -40,7 +40,9 @@ When I'm not immersed in data, I'm passionate about personal and professional gr
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### The Impact of Social Media on Mental Health in Teens
-**Code:** 
+**Code:** [`The Impact of Social Media on Mental Health in Teens`](https://github.com/NickWiggz/Projects/blob/main/Social%20Media%20and%20Teens.Rmd)
+
+**Document:** [`The Impact of Social Media on Mental Health in Teens`](https://rpubs.com/njwiggins/1266054)
 
 **Goal:** 
 
@@ -53,7 +55,9 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** 
 
 ### The Gateway Effect of Smokeless Tobacco on High School Adolescents
-**Code:** 
+**Code:** [`The Gateway Effect of Smokeless Tobacco on High School Adolescents`](https://github.com/NickWiggz/Projects/blob/main/Smokeless%20Tobacco%20and%20High%20School%20Adolescents.Rmd)
+
+**Document:** [`The Gateway Effect of Smokeless Tobacco on High School Adolescents`](https://github.com/NickWiggz/Projects/blob/main/Smokeless%20Tobacco%20and%20High%20School%20Adolescents.pdf)
 
 **Goal:** 
 
@@ -66,7 +70,9 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** 
 
 ### Addressing Homelessness in Washington, DC
-**Code:** 
+**Code:** [`Addressing Homelessness in Washington, DC`](https://github.com/NickWiggz/Projects/blob/main/Addressing%20DC%20Homelessness.Rmd)
+
+**Document:** [`Addressing Homelessness in Washington, DC`](https://q1tmzx-nicholas-wiggins.shinyapps.io/Addressing_DC_Homelessness/)
 
 **Goal:** 
 
@@ -79,7 +85,9 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** 
 
 ### FlexDashboard|Addressing Homelessness in Washington, DC
-**Code:** 
+**Code:** [`Addressing Homelessness in Washington, DC (FlexDashBoard)`](https://github.com/NickWiggz/Projects/blob/main/Homeless_Final_FlexDash.rmd)
+
+**Document:** [`Addressing Homelessness in Washington, DC (FlexDashBoard)`](https://q1tmzx-nicholas-wiggins.shinyapps.io/DC_Homelessness_Final/)
 
 **Goal:** 
 
@@ -90,11 +98,12 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** 
 
 **Results:** 
-
 
 
 ### Media Narratives, Veteran Homelessness, and Public Perception
-**Code:** 
+**Code:** [`Media Narratives, Veteran Homelessness, and Public Perception`](https://github.com/NickWiggz/Projects/blob/main/Media%20Narratives%2C%20Veteran%20Homelessness%2C%20and%20Public%20Perception.qmd)
+
+**Document:** [`Media Narratives, Veteran Homelessness, and Public Perception.pdf`](https://github.com/NickWiggz/Projects/blob/main/Media%20Narratives%2C%20Veteran%20Homelessness%2C%20and%20Public%20Perception.pdf)
 
 **Goal:** 
 
@@ -105,6 +114,22 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** 
 
 **Results:** 
+
+### US Police Involved Shootings (2015-2023)
+**Code:** [`US Police Involved Shootings (2015-2023)`](https://github.com/NickWiggz/Projects/blob/main/Data%20Viz%20Police%20Shootings%20Portfolio.Rmd)
+
+**Document:** [`US Police Involved Shootings (2015-2023)`]([https://github.com/NickWiggz/Projects/blob/main/Data%20Viz%20Police%20Shootings%20Portfolio.Rmd](https://q1tmzx-nicholas-wiggins.shinyapps.io/Portfolio/))
+
+**Goal:** 
+
+**Description:** 
+
+**Skills:** data visualization
+
+**Technology:** 
+
+**Results:** 
+
 
 ## Education
 Johns Hopkins University: 
