@@ -118,7 +118,7 @@ In this section, I will list data analytics projects briefly describing the tech
 ### US Police Involved Shootings (2015-2023)
 **Code:** [`US Police Involved Shootings (2015-2023)`](https://github.com/NickWiggz/Projects/blob/main/Data%20Viz%20Police%20Shootings%20Portfolio.Rmd)
 
-**Document:** [`US Police Involved Shootings (2015-2023)`]([https://github.com/NickWiggz/Projects/blob/main/Data%20Viz%20Police%20Shootings%20Portfolio.Rmd](https://q1tmzx-nicholas-wiggins.shinyapps.io/Portfolio/))
+**Document:** [`US Police Involved Shootings (2015-2023)`](https://q1tmzx-nicholas-wiggins.shinyapps.io/Portfolio/)
 
 **Goal:** To analyze and visualize data on police-involved shootings in the US from 2015 to 2023, providing insights into trends, demographics, and geographical patterns.
 
