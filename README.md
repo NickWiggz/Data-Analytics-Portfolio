@@ -7,7 +7,7 @@ Throughout my career, I've had the opportunity to work with organizations like t
 When I'm not immersed in data, I'm passionate about personal and professional growth. I love to travel, experience new cultures, and constantly seek out opportunities to learn and expand my horizons. Whether it's mastering a new programming language or exploring a new country, I'm always eager to challenge myself and embrace new experiences.
 
 
-- 🔭 Recently completed my M.S in DAP. 
+- 🔭 Recently completed my M.S. in DAP. 
 - 🌱 I’m currently furthering my learning in SAS programming and Python
 - 👯 I’m looking to collaborate on projects involving R and Python to build my skill level.
 - 📫 How to reach me: NickWiggz (Instagram, Twitter, LinkedIn)
